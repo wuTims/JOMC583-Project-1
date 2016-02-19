@@ -5532,8 +5532,10 @@
       "firstname": "Tim",
       "lastname": "Neville",
       "party": "Republican",
-      "bio": null,
-      "points": [],
+      "bio": "Tim grew up modestly in Florida. His mother passed away when he was 7 years old, leaving Tim's father to raise four children by himself. Tim graduated early from high school, and by 17 he was on his own. At age 21, Tim packed up what few things he owned, grabbed his two hundred dollars in savings, hopped into his 1961 Ford Galaxie 500 with four retread tires, and came to Colorado to chase the American Dream. The day after Tim arrived, he got a job and went to work as a cook at a restaurant, where he worked hard, saved his money and paid for his college education -- eventually graduating from Regis University with a major in Business Administration and a minor in Economics. Tim and Barb have been married for 37 years, and together they have been blessed with two sons (Patrick and Joe) -- and five wonderful grandchildren.",
+      "points": ["Provide for a strong national defense",
+                  "Secure the border and protect American sovereignty",
+                  "Protect the unborn"],
       "image_url": [
         "http://www.nevilleforsenate.com/wp-content/uploads/2015/10/bio-headshot.jpg"
       ]
@@ -5610,8 +5612,10 @@
       "firstname": "August",
       "lastname": "Wolf",
       "party": "Republican",
-      "bio": null,
-      "points": [],
+      "bio": "August was born in 1961 in Washington DC, second child of a Naval Officer and chemistry teacher. He was raised in Hawaii and St. Paul, Minnesota. Among August’s interests in high school were German (he learned and speaks it fluently), historical conflict simulations, playing basketball and throwing the shot-put and discus. August spent four years at Princeton University, where he studied Public Affairs at the Woodrow Wilson School of Public Affairs.",
+      "points": ["Mr. Wolf supports reforms leading towards tax code simplification and a reduction of regulations both within the State of Connecticut and the Federal Government",
+                  "Mr. Wolf supports our constitutionally guaranteed rights to keep and bear arms for personal and national self defense as defined by the Second Amendment",
+                  "Mr. Wolf supports a constitutional amendment requiring term limits for members of Congress"],
       "image_url": [
         "http://2bpp6b1bdfsu2u16od2px8nk.wpengine.netdna-cdn.com/wp-content/uploads/2015/03/HolbornSrMgrColorWolf-249x300.jpg"
       ]
@@ -5631,8 +5635,10 @@
       "firstname": "Patrick",
       "lastname": "Murphy",
       "party": "Democrat",
-      "bio": null,
-      "points": [],
+      "bio": "Congressman Patrick E. Murphy represents Florida’s 18th Congressional District in the U.S. House of Representatives.  Born and raised in Florida, Patrick worked as a Certified Public Accountant (CPA) for Deloitte & Touche before starting his own environmental cleanup business.  He was first elected to Congress in 2012 after defeating Tea Party firebrand Allen West. In Congress, Murphy has focused on championing the middle class, strengthening Social Security and Medicare for future generations, protecting Florida’s environment and precious coastline, and breaking through the partisan gridlock in Washington.  He currently serves on the House Financial Services and Intelligence committees, and is a founder and co-chair of the United Solutions Caucus, a bipartisan group of freshman and sophomore lawmakers dedicated to finding solutions to the nation’s fiscal issues.  In 2014, Patrick was named Champion of the Everglades by the Florida Audubon Society. Patrick, 32, lives in Jupiter in northern Palm Beach County.",
+      "points": ["Strengthening Social Security and Medicare",
+                  "Protecting Florida's environment and coastline",
+                  "Breaking through the partisan gridlock in Washington"],
       "image_url": [
         "https://pbs.twimg.com/profile_images/574354842677706752/NAzlBdmr.jpeg"
       ]
@@ -5716,8 +5722,10 @@
       "firstname": "Allen",
       "lastname": "Buckley",
       "party": "Third",
-      "bio": null,
-      "points": [],
+      "bio": "Allen Buckley is a Georgia attorney/CPA. He works primarily in the areas of tax, employee benefits, estate planning, business and administrative law. He has been AV rated by Martindale-Hubbell (highest possible, in terms of work quality and ethics — based on opinions of attorneys) since 1996. His business website is www.allenbuckleylaw.com. He is married and has two children. He resides in Smyrna, Georgia. He is a board member of the Midtown Assistance Center and the Lovett Friends of the Arts.  He is treasurer of these organizations and the Smyrna Jonquil Lions Club (of which he is a member).",
+      "points": ["Reduce size of government and solve the nation's financial problems",
+                  "Increase power of individuals and states",
+                  "Limit the powers of the Executive Branch"],
       "image_url": [
         "http://static2.teapartycheer.com/wp-content/uploads/2015/12/GAs3.21-Allen-Buckley.jpg?d4962a"
       ]
@@ -5731,8 +5739,10 @@
       "firstname": "Brian",
       "lastname": "Schatz",
       "party": "Democrat",
-      "bio": null,
-      "points": [],
+      "bio": "Brian grew up in Hawai‘i with his three brothers Jake, Ed, and twin brother Steve, raised by their mother, Barbara, and father, Irwin, who was a professor at the University of Hawai‘i John A. Burns School of Medicine for more than three decades. Three generations live together at Senator Schatz’s Honolulu home. His wife of 10 years, Linda Kwok Schatz, is a businesswoman, and he is extremely proud that Linda was recently named one of Hawai‘i Business’ 20 for the Next 20. Together they have two children, Tyler and Mia. Linda’s parents, Ping and George Kwok, who ran Kwok’s Chop Suey on Waialae Avenue for 35 years, also live with them. Senator Schatz became involved in community advocacy when he was inspired to join the Save Sandy Beach movement in the 1980s. He later served as the founder and Executive Director of Youth for Environmental Service, CEO of Helping Hands Hawai‘i, Chairman of the Democratic Party of Hawai‘i, and Director of both the Makiki Community Library and Center for a Sustainable Future.",
+      "points": ["Creating an Economy That Works for All of Our Families",
+                  "Protecting Social Security and Medicare",
+                  "Fighting for Equal Pay for Equal Work"],
       "image_url": []
     }],
     "color": "blue",
@@ -5744,8 +5754,10 @@
       "firstname": "Mike",
       "lastname": "Crapo",
       "party": "Republican",
-      "bio": null,
-      "points": [],
+      "bio": "Mike was born and raised in southern Idaho and graduated from Idaho Falls High School. In 1973, Mike graduated summa cum laude from Brigham Young University with a B.A. in political science. In 1977, he received his Juris Doctorate cum laude from Harvard Law School. Following graduation from law school, he served a one-year clerkship with the 9th Circuit Court of Appeals. Prior to his service in Congress, Mike was a partner in the Idaho Falls-based law firm of Holden, Kidwell, Hahn & Crapo. Mike served in the Idaho State Senate from 1984 to 1992, and spent his final four years in the Idaho Legislature as Senate President Pro Tempore. Before being elected to the United States Senate in 1998, Mike also served three terms as the 2nd District Representative for Idaho in the U.S. House of Representatives (1993 – 1998). Throughout his career, Mike has been at the forefront of the fight for the conservative policies and values that affect Idahoans and to protect our Idaho way of life. Mike and his wife, Susan, have five children and eight grandchildren. They reside in Idaho Falls.",
+      "points": ["Supporting traditional marriage",
+                  "Repealing and replacing ObamaCare",
+                  "Balancing the budget and lowering taxes"],
       "image_url": []
     }],
     "color": "red",
@@ -5757,8 +5769,10 @@
       "firstname": "Tammy",
       "lastname": "Duckworth",
       "party": "Democrat",
-      "bio": null,
-      "points": [],
+      "bio": "Tammy Duckworth is running to represent Illinois in the United States Senate. Following her career as a helicopter pilot in the U.S. Army, Tammy worked as an advocate for Veterans at both the state and federal level. Tammy was elected to the House of Representatives in 2012, where she has been an active voice for Illinois families. Tammy was living in DeKalb, Illinois, working at Rotary International while pursuing a Ph.D. at Northern Illinois University, when her unit, headquartered in Peoria, was mobilized in 2003 for Operation Iraqi Freedom. On November 12, 2004 Tammy’s UH‐60 Black Hawk helicopter was hit by a rocket propelled grenade. She lost both legs and partial use of her right arm in the explosion. As a result of her injuries, Tammy was awarded the Purple Heart.",
+      "points": ["Advocating for small business",
+                "Investing in infrastructure",
+                "End Veteran homelessness"],
       "image_url": [
         "https://pbs.twimg.com/profile_images/673882053297971201/qKILnJZ8.jpg"
       ]
@@ -5807,8 +5821,10 @@
       "firstname": "Baron",
       "lastname": "Hill",
       "party": "Democrat",
-      "bio": null,
-      "points": [],
+      "bio": "Hill was a three-sport athlete at Seymour High School, where he was all-state in football and basketball. He was inducted into the Indiana Basketball Hall of Fame in 2000. Hill accepted an athletic scholarship to Furman University in Greenville, South Carolina; where he earned a bachelor's degree in history in 1975. After graduation, he moved back to Seymour and joined his family's insurance and real estate business. Hill was a member of the Indiana House of Representatives from 1982 to 1990. He served as chairman of the Caucus Campaign Committee, where he helped elect a Democratic majority in the House.",
+      "points": ["Fight for marriage equality",
+                  "Focus on growing local small businesses",
+                  "Tackle the student loan crisis"],
       "image_url": [
         "https://pbs.twimg.com/profile_images/672808658623979520/2CRMy6aH.jpg"
       ]
@@ -5850,8 +5866,10 @@
       "firstname": "Tom",
       "lastname": "Fiegen",
       "party": "Democrat",
-      "bio": null,
-      "points": [],
+      "bio": "My parents were farm activists from the 1960s forward. They were members of the NFO (National Farmers Organization) and Farmers Union. They started taking me along to farm organization meetings when I was in 6th grade. My mother is also one of the original McGovern Democrats. They agreed with George McGovern on food and hunger issues, on family farm agriculture and on peace. My parents received a “drop dead” letter from their bank on December 15, 1984. It gave them sixty (60) days to pay back all of their farm loans, including the mortgage. They were paying 23% interest at the time. Plus the bank froze their checking account and would not release any money to buy feed for the livestock, fuel for the tractors, or even to pay the electricity bill. I worked with my parents to save their farm, and began volunteering at one of the first Farm Aid clinics, located in Hills, Iowa. That lead me to a career as an ag law and bankruptcy attorney for the last 27 years. I have always been an advocate for small farmers and business owners.",
+      "points": ["Expand and strengthen Social Security",
+                  "Make higher education free to every qualified student",
+                  "Make prescription drugs more affordable"],
       "image_url": [
         "https://pbs.twimg.com/profile_images/646454418154479616/ZSKXwzSw.jpg"
       ]
@@ -5872,8 +5890,10 @@
       "firstname": "Jerry",
       "lastname": "Moran",
       "party": "Republican",
-      "bio": null,
-      "points": [],
+      "bio": "Growing up in Plainville, Kansas, instilled in Jerry Moran a tireless work ethic, strong Kansas values and real-life experiences that shaped him into the leader he is today. The son of hard-working Kansans, Jerry’s dad was a pump operator for Skelly Oil; his mom was the lady you paid your light bill to. Life in Western Kansas shaped Jerry’s core beliefs: That your word is your bond. The importance of community. Never backing down from what you believe in. The value of a dollar. The honor of serving your fellow citizens. Jerry started college close to home at Fort Hays State University — years later he would return as an adjunct professor. In 1974, he was selected to intern in the U.S. House of Representatives during the impeachment hearings for President Richard Nixon. Two years later, Jerry graduated from the University of Kansas with a bachelor’s degree in economics",
+      "points": ["He is committed to opposing reckless spending and reining in big government in a fiscally responsible way to help Kansas families and businesses",
+                  "Following the horrific tragedy in Chattanooga, Jerry Moran proposed legislation to eliminate “Gun-Free Zones” at American military installations and military recruitment centers",
+                  "Jerry believes that regulators and bureaucrats need to let farmers and ranchers be the responsible stewards of the land that they always have been"],
       "image_url": []
     }],
     "color": "red",
@@ -5906,8 +5926,10 @@
       "firstname": "Ron",
       "lastname": "Leach",
       "party": "Democrat",
-      "bio": null,
-      "points": [],
+      "bio": "Ron Leach is a retired US Army Major with over 30 years service. Ron saw four combat deployments to Iraq and Afghanistan, as well as missions related to Foreign Internal Defense. He then went to Washington, DC as at the Army’s Medical Information Management subject matter expert in the Office of the Surgeon General. Ron obtained two college degrees, one in Agriculture and Education, and one in Medical Science. Before deployment in the Army, he was a high school Agriculture and Science teacher. Ron is married to Kelly, and together they have six children and two grandchildren.",
+      "points": ["Deploy real and sustainable National Security",
+                  "Protect and strengthen Social Security and Medicare",
+                  "Advocate for family farms and rural Kentucky communities"],
       "image_url": [
         "http://mediad.publicbroadcasting.net/p/wfpl/files/styles/card_280/public/201307/-2.jpg"
       ]
@@ -5977,8 +5999,10 @@
       "firstname": "Charles",
       "lastname": "Boustany Jr.",
       "party": "Republican",
-      "bio": null,
-      "points": [],
+      "bio": "Congressman Charles W. Boustany, Jr., MD, serves Louisiana’s Third Congressional District as a leader inCongress with a proven conservative record of accomplishments, common-sense solutions, and honestleadership. A heart surgeon with 30 years of experience, Boustany is a trusted voice on tax, healthcare, energy, agriculture, and infrastructure policy, as well as expanding opportunities for Louisiana businesses to succeed.",
+      "points": ["Fighting for lower taxes",
+                  "Offering conservative healthcare solutions",
+                  "Supporting the Luoisiana energy industry"],
       "image_url": [
         "https://pbs.twimg.com/profile_images/557687881427197952/6_Rqu8VH.jpeg"
       ]
@@ -6061,8 +6085,10 @@
       "firstname": "Violet",
       "lastname": "Staley",
       "party": "Democrat",
-      "bio": null,
-      "points": [],
+      "bio": "I was taught that we have a Civic Responsibility to see that all people are treated fairly and equitably.  As I became an adult, I worked with like-minded citizens in the Valley through my church and volunteerism.  This included working with the Community Policing Division of the Los Angeles Police Department Foothill Division. I am a Christian.  My desire to serve is motivated by Love; the most powerful force in this world.  God is Love, and we are all His Children.  I owe you respect, and expect that in return.  Children and Youth may not be impressed by what we say, they want to see what we Do.  People don't care how much you know, until they know how much you care. Love is a Verb.  Actions speak louder than words..",
+      "points": ["Quality K - 12 public education in a clean school for every child",
+                  "Quality housing in safe and clean communities",
+                  "No Veteran should be homeless"],
       "image_url": [
         "https://pbs.twimg.com/profile_images/648568650245365760/ft-Q2pg9.jpg"
       ]
@@ -6275,8 +6301,10 @@
       "firstname": "Jason",
       "lastname": "Kander",
       "party": "Democrat",
-      "bio": null,
-      "points": [],
+      "bio": "A husband, a father, a former Army Captain who served in Afghanistan, and Missouri’s Secretary of State, Jason Kander is a fifth-generation Missourian running to represent all of us in the United States Senate. Jason learned early on the importance of public service. His parents were both juvenile probation officers, with his dad working as a police officer at night. They taught him right from wrong and to always fight for what he believes in no matter what. The values instilled in him by his parents are why he felt a calling to military service following 9/11. Jason served as a military intelligence officer in Afghanistan, investigating groups and individuals suspected of corruption, espionage, drug trafficking, and facilitating Al Qaeda and the Taliban. Jason’s commanders described him as an “outstanding leader” and the Afghan Intelligence Watch Commander said Jason’s “hard work directly resulted in arresting enemies and saving lives.”",
+      "points": ["Supporting Missori businesses",
+                  "Advocating for Veterans and military families",
+                  "Holding politicians accountable"],
       "image_url": [
         "https://pbs.twimg.com/profile_images/663834883089932288/oM7t8JZl.jpg"
       ]
@@ -6323,8 +6351,10 @@
       "firstname": "Catherine",
       "lastname": "Cortez Masto",
       "party": "Democrat",
-      "bio": null,
-      "points": [],
+      "bio": "Catherine Cortez Masto has spent her career fighting to protect Nevada families. Cortez Masto served two terms as Nevada’s Attorney General and became well known for her integrity and leadership on behalf of Nevada families, women, and seniors. As the chief law enforcement officer of Nevada, Cortez Masto worked closely with law enforcement, treatment providers, and community advocates to combat the use and distribution of methamphetamines. She helped pass new laws to crack down on meth manufacturers and restrict the sale of materials used to make the drug. Staying true to her commitment to protecting seniors, Cortez Masto created a senior protection unit in the Attorney General’s office to ensure that her investigators and prosecutors had the necessary tools to pursue those who abuse, neglect, or exploit seniors in our communities. A lifelong advocate for women and children, Cortez Masto worked to strengthen laws preventing sex trafficking and violence against women. She helped pass a bill that established the crime of sex trafficking of children and adults, allowed victims to receive assistance, and gave them the right to sue their traffickers. She also took steps to protect children from sexual predators by passing new laws that strengthened the registration and notification requirements of convicted sex offenders.",
+      "points": ["Fighting for higher wages for workers",
+                  "Maintain and strengthen Social Security",
+                  "Support immigration reform that secures borders and allows undocumented immigrants to earn a path to citizenship"],
       "image_url": [
         "https://pbs.twimg.com/profile_images/581564723503591424/81f-64CF.jpg"
       ]
@@ -6345,8 +6375,10 @@
       "firstname": "Maggie",
       "lastname": "Hassan",
       "party": "Democrat",
-      "bio": null,
-      "points": [],
+      "bio": "Maggie Hassan earned her B.A. from Brown University and her J.D. from the Northeastern School of Law. She and her husband, Tom, who previously served as the principal of Phillips Exeter Academy, are the proud parents of two children, Ben (27) and Meg (23). They live in Newfields along with the family dog, Honey Mae. Maggie Hassan was drawn to public service as an advocate fighting to ensure that children like her son Ben, who experiences severe disabilities, would be fully included in their communities and have the same opportunities that all parents want for their children. She has continued working to ensure that all Granite Staters have the same opportunity that Ben did, serving for three terms in the New Hampshire State Senate and now as the 81st Governor of New Hampshire. As Governor, Maggie Hassan has worked to bring together Republicans, Democrats and independents to build a stronger, more innovative New Hampshire where education and small businesses drive job creation. She has passed two bipartisan budgets that protect New Hampshire’s priorities, without a sales or income tax. She cut taxes for research and development and small businesses, while maintaining fiscal responsibility, and created a business-friendly environment that has New Hampshire’s unemployment rate among the lowest in the nation.",
+      "points": ["Protecting benefits for seniors",
+                  "Make public education more available and affordable",
+                  "Protect the environment and build a more energy efficient economy"],
       "image_url": [
         "https://pbs.twimg.com/profile_images/593528037762732035/vlQMl42F.jpg"
       ]
@@ -6379,8 +6411,10 @@
       "firstname": "Chuck",
       "lastname": "Schumer",
       "party": "Democrat",
-      "bio": null,
-      "points": [],
+      "bio": "Throughout his career, Charles “Chuck” Schumer has fought to make government work for all Americans by cutting through red tape and finding common-sense solutions to challenges facing the middle- class.  Chuck has become known for his tireless work to reduce crime, increase economic opportunity, and expand access to higher education, affordable health care and housing. Although Chuck’s career has taken him from the New York State Assembly to the U.S. House of Representatives to the U.S. Senate, he still resides in Brooklyn with his wife, Iris Weinshall, and their two daughters, Jessica and Alison.  He is known as one of America’s hardest working and most accessible elected officials – countless New Yorkers from all walks of life have interacted with him during his appearances at town hall meetings, parades, festivals, community events and graduations.  Each year, Chuck visits all of New York’s 62 counties and is a constant presence all across New York.",
+      "points": ["Support for pro-choice",
+                  "Protect Americans by funding and strengthening homeland security",
+                  "Ensure marriage equality for all"],
       "image_url": []
     }],
     "color": "blue",
@@ -6406,8 +6440,10 @@
       "firstname": "Chris",
       "lastname": "Rey",
       "party": "Democrat",
-      "bio": null,
-      "points": [],
+      "bio": "After nearly eight years of active military service, Chris was honorably discharged and began studies at William & Mary School of Law, the nation’s oldest legal institution.  Upon graduating in 2010 Chris returned back home to Spring Lake to do his part to serve his community. Chris currently works for Cumberland HealthNET, a non-profit organization that helps to coordinate care for the uninsured population of Cumberland County.  Chris serves as Executive Director where he manages the day-to-day operations of the organization. He also is an adjunct professor in the criminal justice department at the University of Mount Olive, where he teaches class on constitutional law, criminal law, juvenile justice, and criminal courts. Mayor Rey holds a B.S. in Business Administration from Walden University, and a Juris Doctor Degree from William & Mary School of Law. He is currently pursuing masters in public administration from the University of Chapel Hill.  Mayor Rey is also a proud member of Phi Beta Sigma Fraternity, Inc., the Kiwanis Club of Spring Lake, American Legion Post 230, and he is a partner to the Truman National Security Project.  He sits on the Board of Directors for the Fayetteville Technical Community College Foundation, the Board of Directors for the Cumberland County Partnership for Children, and the Public School Forum of North Carolina. He is married to Adwoa Rey and they have three children.",
+      "points": ["As Mayor, Chris has worked to transition veterans which make up a large portion of the towns residents back to civilians life, honor their service, had Spring Lake named a 'Purple Heart' town, and created the 'Mayor’s Plaque of Freedom' awarded to veterans who give back to the community",
+                  "Chris has been a leader on creating better transit options throughout the Cumberland County Region",
+                  "His 'Read with the Mayor' program that organized over 150 volunteers to read to grade school children for an hour each week to encourage early grades literacy"],
       "image_url": [
         "https://pbs.twimg.com/profile_images/378800000447052583/6485f2f3f542b0e3d5547958ae2c9980_400x400.jpeg"
       ]
@@ -6463,8 +6499,10 @@
       "firstname": "John",
       "lastname": "Hoeven",
       "party": "Republican",
-      "bio": null,
-      "points": [],
+      "bio": "John Hoeven was sworn in as North Dakota’s 22nd U.S. Senator on January 5, 2011. He served as the state’s governor from 2000-2010. Senator Hoeven was born in Bismarck.  He earned a bachelor’s degree from Dartmouth College in 1979 and a master’s degree in business administration from Northwestern University in 1981.  He served as executive vice president of First Western Bank in Minot from 1986 to 1993, and served on many civic, community, and economic development groups.  From 1993-2000, he served as president and CEO of the Bank of North Dakota, which grew from $900 million to $1.6 billion under his leadership. Hoeven and his wife Mical (Mikey) live in Bismarck.  They have two children, Marcela and Jack, and three grandsons, Crew, Jaxen and Nash. ",
+      "points": ["By empowering the private sector, we will continue to create the jobs and careers that provide a higher standard of living for all of our citizens",
+                  "I believe additional revenues should come from tax reform and economic growth, not raising taxes",
+                  "Through a comprehensive energy plan like we developed in North Dakota with EmPower ND, our country can spur development of all our energy resources with good stewardship while still promoting energy efficiency and conservation"],
       "image_url": []
     }],
     "color": "red",
@@ -6490,8 +6528,10 @@
       "firstname": "Ted",
       "lastname": "Strickland",
       "party": "Democrat",
-      "bio": null,
-      "points": [],
+      "bio": "Ted Strickland is running for the U.S. Senate to fight for Ohio’s working people because that’s where he comes from and that’s who he cares about. He is a former minister, prison psychologist, congressman and governor. But the most important thing to know about Ted is that he has lived the American Dream – struggles faced and overcome, perseverance in the face of adversity, and a deep commitment to helping people achieve their full potential. The eighth of nine children, Ted was raised in rural Scioto County by his mother and steelworker father. His brothers quit school and went to work because money was always tight. But to really understand the values that guide Ted today, it helps to know the story of his family home. Before Ted was born, his family lost their first house in Portsmouth to a flood. They moved to the country, where they lost their second house to the bank. And when Ted was about five, he woke up in the middle of the night to find his house engulfed in flames.  Ted’s father returned after midnight from the steel mill to find his third home burned to the ground, his family standing outside, without a penny of insurance. The Strickland family had to start all over again, but they didn’t give up. Board by board, they converted their barn into a house. And Ted’s niece – a concrete finisher – lives in that home on Duck Run today.",
+      "points": ["Jobs with good pay",
+                  "National Security and fighting for our Veterans",
+                  "Establish Ohio as a leader in the green energy economy"],
       "image_url": [
         "https://pbs.twimg.com/profile_images/666343176878350336/2cV09IEA.jpg"
       ]
@@ -6540,8 +6580,10 @@
       "firstname": "James",
       "lastname": "Lankford",
       "party": "Republican",
-      "bio": null,
-      "points": [],
+      "bio": "Since being elected to the United States Senate and serving on several committees, James has worked diligently, studying each issue and its impact on the families of our State. He has earned the respect of his conservative colleagues for his knowledge on several issues. While remaining passionate about life and traditional family values, James has become a strong voice for fiscal discipline and accountability in the federal government. He has emerged as a leader in fighting government regulations that are suffocating business and weakening the economy. Prior to Congress, James served as director of Falls Creek Youth Camp from 1996 to 2009, the largest youth camp in the United States and the pride of Oklahoma. Falls Creek hosts students from all 77 counties of Oklahoma. James has been married to his bride Cindy for over 20 years. Together, they have two wonderful daughters: Hannah and Jordan. James is unashamedly Christian in his worldview and daily life. He enjoys spending time with his family, sport shooting, and reading.",
+      "points": ["Protect the American riht to keep and bear arms",
+                  "Reducing spending and balancing the budget",
+                  "Families, parents and local community leaders should set the high educational standards for our students, not the federal government"],
       "image_url": []
     }],
     "color": "red",
@@ -6560,8 +6602,10 @@
       "firstname": "Kevin",
       "lastname": "Stine",
       "party": "Democrat",
-      "bio": null,
-      "points": [],
+      "bio": "I was born in Medford, Oregon in 1985 to a single mother. We lived in Oregon until I was 10 and then lived in a small town in Oklahoma where I experienced the country lifestyle. During my Senior year in high school, I decided that I would take the opportunity to serve in the military. The ability to view the world was enticing to me, as well as the ability to break the cycle of poverty that my family had been in. I served in the United States Navy on-board submarines as an Electronics Technician, with a specialty in radio communications. I was stationed on the USS Hyman G Rickover and the USS Pittsburgh. I completed three deployments in my nine years of service. After being honorably discharged, I returned home to Medford with my wonderful wife of nine years, Casey, and my daughter Riley. Wanting to be involved in politics, I contacted the Jackson County Democrats and went to the Medford City Council meetings. When I saw an opportunity to step into public service once again, this time as an elected official, I took it and won election to the Medford City Council. Now, I see an opening in the United States Senate. The current holder of the seat, Ron Wyden, has put corporate interests ahead of Oregon interests. This needs to change, and I need your support in helping this happen.",
+      "points": ["Ensure that Social Security is viable and strong for present and future Americans",
+                  "Work towards a Medicare-for-all, single-payer system",
+                  "Support for the legalization of marijuana"],
       "image_url": [
         "https://pbs.twimg.com/profile_images/699656718595174400/cTtKEXvh.jpg"
       ]
@@ -6589,8 +6633,10 @@
       "firstname": "Katie",
       "lastname": "McGinty",
       "party": "Democrat",
-      "bio": null,
-      "points": [],
+      "bio": "Katie ran for Governor of Pennsylvania in 2014. When Governor Tom Wolf was elected, he named Katie, his former rival, as his Chief of Staff to help lead the new administration.  With Governor Wolf, Katie continued her can-do approach to problem solving, working to develop a budget proposal that cut property taxes for families and seniors, increasing aid to public education, and expanding Medicaid. Her work with Governor Wolf is making good health coverage available to 600,000 Pennsylvanians, and will save Pennsylvania taxpayers $600 million annually. Katie is the proud recipient of three Honorary Doctorate Degrees (Clarion State, Dickinson, and Muhlenberg). She has been named “Global Leader for Tomorrow” (World Economic Forum), “Business Leader of the Year” (Woman’s Network for a Sustainable Future), “Woman of the Year” (Women’s Council on Energy and the Environment), and has been awarded prestigious environmental awards including the “Ansel Adams Award” of the National Wildlife Federation. Katie’s dedication to her work is matched only by her dedication to her family. She, her husband, and their three daughters reside in Wayne, Chester County, Pennsylvania.",
+      "points": ["Fight for good paying jobs and policies that protect working families",
+                  "Expand the promise of high-quality public education",
+                  "Invest in clean and energy efficient technologies and policies"],
       "image_url": [
         "https://pbs.twimg.com/profile_images/693145560245645312/aHHgvmvl.jpg"
       ]
@@ -6624,8 +6670,10 @@
       "firstname": "Tim",
       "lastname": "Scott",
       "party": "Republican",
-      "bio": null,
-      "points": [],
+      "bio": "Tim was raised in a single parent household in North Charleston, seeing his mom work 16 hour days to keep food on the table and a roof over their heads. He got his first job, changing oil at a gas station, when he was 13. After almost failing out of high school as a freshman, he was fortunate to meet his mentor, a Chick Fil-a operator named John Moniz, who helped teach him conservative values. Through the love and strength imparted by his mom, and Moniz’s idea that you could ‘think your way out of poverty,’ Tim’s passion for conservative values began. After serving residents of the Palmetto State for nearly two decades, Tim joined the United States Senate in January 2013. In 2014, he received 61 percent of the vote in a special election – higher than any other candidate running for statewide office in South Carolina. With Republicans taking control of the Senate in 2014, Tim was tapped to serve on the powerful Senate Finance Committee, as well as the Committee on Banking, Housing and Urban Affairs. As he continues his efforts to ensure simple and fair tax and regulatory systems for the American people, these assignments provide him with a substantial role in the reform process. Tim also continues to serve on the Committee on Health, Education, Labor, & Pensions, where through his Opportunity Agenda he has become a national leader in the school choice movement, as well as efforts to encourage vocational and technical training and expand apprenticeships. And throughout his time in Washington, Tim has led the charge to take the National Labor Relations Board (NLRB) head on, fighting Big Labor policies such as ambush elections. Tim graduated from Charleston Southern University in 1988, B.S. in Political Science, and was awarded the Distinguished Service Award and Alumnus of the Year award by CSU. His past Board Memberships include: CSU Board of Visitors, South Carolinians for Healthy Family Formation, Midland Park Ministries, The College of Charleston Business School Board of Governors, Roper St. Francis Hospital Foundation, Board of Trustees for Seacoast Church and Palmetto Family Council.",
+      "points": ["Protect life",
+                  "Stop Common Core",
+                  "Start cutting red tape"],
       "image_url": []
     }],
     "color": "red",
@@ -6637,8 +6685,10 @@
       "firstname": "John",
       "lastname": "Thune",
       "party": "Republican",
-      "bio": null,
-      "points": [],
+      "bio": "John Thune is a native of Murdo, South Dakota.  John’s interest in public service began after being introduced to a well-known sports enthusiast and U.S. Representative, Jim Abdnor, at a (freshman) high school basketball game.  John had made five of six free throws, and afterwards Congressman Abdnor said, “I noticed you missed one.” Senator Thune graduated from Biola University before receiving his Masters of Business Administration from the University of South Dakota.  After completing his MBA in 1984, John married Kimberley Weems of Doland, South Dakota. John began his career in public service working in Washington, D.C., first for then-U.S. Senator Jim Abdnor and later at the U.S. Small Business Administration under an appointment from President Ronald Reagan. John and his family returned to South Dakota in 1989 where he continued his career in public service in various roles, including Executive Director of the South Dakota Republican Party, State Railroad Director (appointed by Gov. George S. Mickelson), and Executive Director of the South Dakota Municipal League.",
+      "points": ["Push for the final passage of a comprehensive energy bill",
+                  "Protect the right to bear arms and expan concealed carry policies",
+                  "Assist farmers and agricultural owners"],
       "image_url": []
     }],
     "color": "red",
@@ -6662,8 +6712,10 @@
       "firstname": "Mike",
       "lastname": "Lee",
       "party": "Republican",
-      "bio": null,
-      "points": [],
+      "bio": "After graduating from law school in 1997, he served as a law clerk to Judge Dee Benson of the U.S. District Court for the District of Utah. He then clerked for Judge Samuel A. Alito, Jr., who was serving at that time on the U.S. Court of Appeals for the Third Circuit Court in Newark, New Jersey. After his second clerkship, he joined the Washington, D.C. office of Sidley & Austin, where he specialized in appellate and Supreme Court litigation. Several years later, Mike returned to Utah after being invited to serve as an Assistant U.S. Attorney in Salt Lake City, preparing briefs and arguing cases before the U.S. Court of Appeals for the Tenth Circuit. He served as Governor Huntsman’s General Counsel from January 2005 until June 2006, when he returned to Washington for a one-year clerkship with Justice Alito at the U.S. Supreme Court. Mike returned to Utah (and to private practice) in the summer of 2007, joining the Salt Lake office of the Washington, D.C.-based law firm of Howrey LLP. Mike has earned a reputation as an outstanding lawyer based on his sound judgment, writing and courtroom advocacy skills, and thorough understanding of the Constitution.",
+      "points": ["Create upward mobility for the poor",
+                  "Expand opportunity for the middle class",
+                  "End special priviledges for the well connected and political elite"],
       "image_url": []
     }],
     "color": "red",
@@ -6675,8 +6727,10 @@
       "firstname": "Patrick",
       "lastname": "Leahy",
       "party": "Democrat",
-      "bio": null,
-      "points": [],
+      "bio": "Vermont’s tireless and best-placed advocate in the Nation’s Capital, Patrick Leahy is the most senior member of the U.S. Senate -- where seniority counts -- giving Vermonters not only a voice but a front-row seat at the table when key decisions are made. That has included when times were tough such as when Hurricane Irene devastated parts of Vermont in August, 2011. The epic storm required an historic federal relief effort that totaled over half a billion dollars. He is a tireless promoter of the Vermont business community working closely with Vermonters to promote job growth and expand markets overseas. He provided the initial funding of the most successful technology incubator in Vermont, the Vermont Center for Emerging Technologies (VCET). Patrick and Marcelle Leahy live on a tree farm in Middlesex and have been married since 1962. Marcelle is a Registered Nurse who has worked in Vermont, Virginia and the District of Columbia. Most recently she worked as a staff nurse in the Medical-Surgical Unit of Arlington Hospital in northern Virginia. She is now a member of the Advisory Board of the University of Vermont College of Nursing and Health Sciences. Marcelle Leahy is also the honorary chair of the Vermont National Guard Family Support Program, which helps ensure that the families of the state's citizen-soldiers receive the assistance and care they need during lengthy deployments of their loved ones. The Leahys have two sons, a daughter, two daughters-in-law, a son-in-law, and five grandchildren.",
+      "points": ["Protect the environment through conversation programs",
+                  "Effective child nutrition and anti-hunger programs",
+                  "Improve access to health care, education and retirement benefits for Veterans"],
       "image_url": []
     }],
     "color": "blue",
@@ -6694,8 +6748,10 @@
       "firstname": "Patty",
       "lastname": "Murray",
       "party": "Democrat",
-      "bio": null,
-      "points": [],
+      "bio": "Patty was raised in Bothell, Washington. Her dad ran a five and dime store on Main Street, where she and her siblings all worked growing up. As a twin and one of seven children, she quickly learned the value of a strong work ethic and a country that supports those who fall on hard times when her father fell ill when she was 15. Patty's father -- a World War II veteran and a Purple Heart recipient -- was diagnosed with multiple sclerosis and in a few short years, his illness got so bad he couldn't work anymore. Patty's mother, who had stayed home to raise their family, had to take care of him while also working to support their family. She found some work, but it didn't pay enough to support Patty and her six brothers and sisters -- and a husband with growing medical bills. Thankfully, they lived in a country where the government didn't just say 'tough luck'. Patty's family received some help from the VA for their father's medical care, but for several months her family had to rely on food stamps. However, thanks to a program established by the federal government, Patty's mother was able to go back to school in order to find a better paying job. And thanks to federal grants and student loans, Patty and her siblings were all able to attend college. While attending Washington State University, Patty took an internship in the psychiatric ward of the Seattle VA. It was there she personally witnessed the sacrifices of young Vietnam War veterans. Never planning to enter politics, in the 1980s a state politician told her she 'couldn't make a difference' when she went to Olympia as a parent to advocate for a local preschool program targeted by state budget cuts. Patty responded by organizing a grassroots coalition of 13,000 parents that fought successfully to save the program. Patty went on to serve on the Shoreline School Board, and in 1988 was elected to the Washington State Senate. In 1992, she ran for the United States Senate as a voice for Washington families who were not being heard. Dramatically outspent, Patty ran a grassroots campaign of family, friends, supporters, and public interest groups to beat a 10-year veteran of the U.S. House of Representatives. Patty was re-elected in 1998, 2004, and 2010. Patty met her husband of over 40 years, Rob Murray, while attending Washington State University. They have two grown children, Sara and Randy, and three grandchildren. Patty enjoys fishing, exploring Washington state's great outdoors, and spending time with her family.",
+      "points": ["Cut spending and create a balanced budget",
+                  "Improve public transportation for Americans",
+                  "Address issues regarding homeless and jobless Veterans"],
       "image_url": []
     }],
     "color": "blue",
@@ -6713,8 +6769,10 @@
       "firstname": "Russ",
       "lastname": "Feingold",
       "party": "Democrat",
-      "bio": null,
-      "points": [],
+      "bio": "A lifetime Wisconsin resident, Feingold represented Wisconsin in the U.S. Senate from 1993 to 2011, earning a reputation for doing what’s right, not what’s politically convenient. Whether it was opposing the war in Iraq, serving as an early voice for fiscal responsibility, or being the only Senator to oppose the Patriot Act, Feingold has shown that you can make a difference if you’re willing to speak truth to power. As one of the namesakes of the McCain-Feingold campaign finance law, Feingold established himself as a bipartisan voice and an accomplished legislator who is leading the fight against runaway special interest money in American elections. In Wisconsin, Feingold has been known for truly listening to the people of Wisconsin. Every year as a senator, Feingold visited each of the 72 Wisconsin counties, in an effort to hear what Wisconsin families expect from their government. He’s worked to improve care for veterans, fought against unfair trade agreements that ship American jobs overseas, and supported the growth of Wisconsin’s economy by listening to Wisconsinites and fighting for their needs. In an effort to increase opportunity for Wisconsinites, Feingold worked to make college more affordable for Wisconsin students by investing in Pell Grants. He fought to help Wisconsin’s farmers get access to desperately needed credit during the recession and helped expand access to broadband across Wisconsin for small businesses, schools and clinics. Feingold’s family settled in Janesville, Wisconsin in 1917. Raised by Sylvia and Leon Feingold, Russ went on to graduate from Janesville Craig High School, UW-Madison and Oxford University, before receiving his law degree from Harvard.",
+      "points": ["Stand up for American middle class families",
+                  "Students and workers should have equal economic opportunity",
+                  "Fight against special interest influence in the political system"],
       "image_url": [
         "https://pbs.twimg.com/profile_images/649269574014144512/-HqpPb6U.png"
       ]
