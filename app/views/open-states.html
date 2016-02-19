@@ -7,13 +7,13 @@
 
     <tr style="">
       <td ng-repeat="senator in senateCtrl.senators | filter:senateCtrl.filterByStateIncum(state.state, senator)">
-        <img class="img-responsive senator-images img-thumbnail {{senator.party | lowercase}}" style="height:150px; width:150px;" ng-src="{{senator.person.image_url}}" alt="">
+        <img class="img-responsive senator-images img-thumbnail {{senator.party | lowercase}}" style="height:150px; width:150px;" ng-src="{{senator.person.image_url}}" ng-click="senateCtrl.clickedSenator=!senateCtrl.clickedSenator; senateCtrl.clicked=false; $event.stopPropagation();">
       </td>
       <td ng-repeat="candidate in state.candidates | filter:{image_url : '!!'}">
-        <img class="img-responsive candidate-images img-thumbnail {{candidate.party | lowercase}}" style="height:150px; width:150px;" ng-src="{{candidate.image_url[0]}}" alt="" ng-click="senateCtrl.clicked=!senateCtrl.clicked; $event.stopPropagation();">
+        <img class="img-responsive candidate-images img-thumbnail {{candidate.party | lowercase}}" style="height:150px; width:150px;" ng-src="{{candidate.image_url[0]}}" alt="" ng-click="senateCtrl.clicked=!senateCtrl.clicked; senateCtrl.clickedSenator=false; $event.stopPropagation();">
       </td>
       <td ng-show="state.candidates.length === 1">
-      	<img class="img-responsive img-thumbnail candidate-images" style="height:150px;width:150px;" src="http://assignments.ds106.us/files/2011/12/placeholder.png" alt="" ng-click="senateCtrl.clicked=!senateCtrl.clicked; $event.stopPropagation();">
+      	<img class="img-responsive img-thumbnail candidate-images" style="height:150px;width:150px;" src="http://assignments.ds106.us/files/2011/12/placeholder.png" alt="" ng-click="senateCtrl.clicked=!senateCtrl.clicked; senateCtrl.clickedSenator=false; $event.stopPropagation();">
       </td>
   	</tr>
 </table>
@@ -45,8 +45,34 @@
 					{{candidate.firstname}} {{candidate.lastname}}
 				</li>
 			</div>
-			
+		</div>   
+</div>
+<div class="bio row slide-toggle" ng-show="senateCtrl.clickedSenator && state.candidates.length === 1">
+		<div class="lead" style="text-align: justify"ng-repeat="candidate in state.candidates | filter:{image_url : '!'}">
+			<div class="container">
+				<h3 class="candidate-about-head">
+					<strong>About {{candidate.firstname}} {{candidate.lastname}}</strong>
+				</h3>
+				<p class="candidate-about-body">
+					{{candidate.bio}}
+				</p>
+			</div>
+			<div class="container">
+				<h3 class="candidate-platform-head">
+					<strong>{{candidate.firstname}} {{candidate.lastname}}'s Platform</strong>
+				</h3>
+				<li ng-repeat="point in candidate.points" class="candidate-platform-body">
+					{{point}}
+				</li>			
+			</div>
 
-			
+			<div class="container">
+				<h3 class="candidate-opp-head">
+					<strong>Other Opponents</strong>
+				</h3>
+				<li ng-repeat="candidate in state.candidates | filter:{image_url : '!'}" class="candidate-opp-body">
+					{{candidate.firstname}} {{candidate.lastname}}
+				</li>
+			</div>
 		</div>   
 </div>

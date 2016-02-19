@@ -12,6 +12,7 @@ angular.module('senateApp')
   .controller('SenateCtrl', ['$http', function ($http) {
     var _this = this;
     var clicked = false;
+    var clickedSenator = false;
     var sortOrder = "state";
     var myFilter = {}
 
@@ -45,6 +46,11 @@ angular.module('senateApp')
 	this.filterByStateIncum = function(state, senator){
 		return function(senator){
 			return (senator.state == state && senator.senator_class == "class3");
+		}
+	}
+	this.filterSingleCandidateStates = function(state, candidate){
+		return function(candidate){
+			return (state.candidates != null && state.candidates.length > 1 && candidate.image_url != null);
 		}
 	}
   }])

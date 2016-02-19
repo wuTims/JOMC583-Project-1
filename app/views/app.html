@@ -5,7 +5,7 @@
 		<button class="filter-btn" ng-click="senateCtrl.order('color')">Sort By Party</button>
 		<button class="filter-btn" ng-click="senateCtrl.revertAll()">Revert All</button>
 	</div>
-    <uib-accordion-group ng-click="senateCtrl.clicked = false" class="{{state.color}} animate-repeat" heading="{{state.state}}" ng-repeat="state in senateCtrl.states | filter:senateCtrl.myFilter | orderBy:senateCtrl.sortOrder" template-url="accordion-group.html">
+    <uib-accordion-group ng-click="senateCtrl.clicked = false; senateCtrl.clickedSenator = false;" class="{{state.color}} animate-repeat" heading="{{state.state}}" ng-repeat="state in senateCtrl.states | filter:senateCtrl.myFilter | orderBy:senateCtrl.sortOrder" template-url="accordion-group.html">
 		<closed-states ng-show="!state.open"></closed-states>
 		<open-states class="{{state.color}}" ng-show="state.open"></open-states>
     </uib-accordion-group>
