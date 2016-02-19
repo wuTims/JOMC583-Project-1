@@ -12,3 +12,8 @@ Run `grunt` for building and `grunt serve` for preview.
 
 Running `grunt test` will run the unit tests with karma.
 
+## Credit and Sources
+
+Some JSON data provided courtesy of GovTrack.us
+Information about senators and candidates comes from Wikipedia and the candidate's respective campaign website. 
+Pictures come from Twitter and vote-usa.org 
