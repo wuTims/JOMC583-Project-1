@@ -1,0 +1,23 @@
+ <table class="table table-bordered">
+	<tr>
+      <th ng-repeat="senator in senateCtrl.senators | filter:senateCtrl.filterByStateIncum(state.state, senator)" style="text-align:center">Incumbent Senator {{senator.person.firstname}} {{senator.person.lastname}}</th>
+      <th ng-repeat="candidate in state.candidates | filter:{image_url : '!!'}" ng-show="candidate.image_url.length > 0" style="text-align:center">Candidate {{candidate.firstname}} {{candidate.lastname}}</th>
+	  <th ng-show="state.candidates.length === 1" style="text-align:center">No Current Candidates</th>
+    </tr>
+
+    <tr style="">
+      <td ng-repeat="senator in senateCtrl.senators | filter:senateCtrl.filterByStateIncum(state.state, senator)">
+        <img class="img-responsive senator-images img-thumbnail {{senator.party | lowercase}}" style="height:150px; width:150px;" ng-src="{{senator.person.image_url}}" alt="">
+      </td>
+      <td ng-repeat="candidate in state.candidates | filter:{image_url : '!!'}">
+        <img class="img-responsive candidate-images img-thumbnail {{candidate.party | lowercase}}" style="height:150px; width:150px;" ng-src="{{candidate.image_url[0]}}" alt="" ng-click="senateCtrl.clicked=!senateCtrl.clicked">
+      </td>
+      <td ng-show="state.candidates.length === 1">
+      	<img class="img-responsive img-thumbnail candidate-images" style="height:150px;width:150px;" src="http://assignments.ds106.us/files/2011/12/placeholder.png" alt="" ng-click="senateCtrl.clicked=!senateCtrl.clicked">
+      </td>
+  	</tr>
+</table>
+
+<div class="bio row slide-toggle" ng-show="senateCtrl.clicked">
+	   {{senateCtrl.clicked}}
+</div>

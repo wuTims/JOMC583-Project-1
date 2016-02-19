@@ -1,0 +1,223 @@
+.browsehappy {
+  margin: 0.2em 0;
+  background: #ccc;
+  color: #000;
+  padding: 0.2em 0;
+}
+
+body {
+  padding: 0;
+}
+
+/* Everything but the jumbotron gets side spacing for mobile first views */
+.header,
+.marketing,
+.footer {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+/* Custom page header */
+.header {
+  border-bottom: 1px solid #e5e5e5;
+  margin-bottom: 10px;
+}
+/* Make the masthead heading the same height as the navigation */
+.header h3 {
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: 40px;
+  padding-bottom: 19px;
+}
+
+/* Custom page footer */
+.footer {
+  padding-top: 19px;
+  color: #777;
+  border-top: 1px solid #e5e5e5;
+}
+
+.container-narrow > hr {
+  margin: 30px 0;
+}
+
+/* Main marketing message and sign up button */
+.jumbotron {
+  text-align: center;
+  border-bottom: 1px solid #e5e5e5;
+}
+.jumbotron .btn {
+  font-size: 21px;
+  padding: 14px 24px;
+}
+
+/* Supporting marketing content */
+.marketing {
+  margin: 40px 0;
+}
+.marketing p + h4 {
+  margin-top: 28px;
+}
+
+/* Responsive: Portrait tablets and up */
+@media screen and (min-width: 768px) {
+  .container {
+    max-width: 730px;
+  }
+
+  /* Remove the padding we set earlier */
+  .header,
+  .marketing,
+  .footer {
+    padding-left: 0;
+    padding-right: 0;
+  }
+  /* Space out the masthead */
+  .header {
+    margin-bottom: 30px;
+  }
+  /* Remove the bottom border on the jumbotron for visual effect */
+  .jumbotron {
+    border-bottom: 0;
+  }
+}
+
+.senator-images {
+  display: block;
+  margin: 0 auto;
+}
+
+.candidate-images {
+  display: block;
+  margin: 0 auto;
+}
+
+.republican, .red{
+  border-color: rgba(255, 0, 0, 0.3);
+  background-color: rgba(255, 0, 0, 0.2);
+}
+
+.democrat, .blue{
+  border-color: rgba(0, 0, 255, 0.3);
+  background-color: rgba(0, 0, 255, 0.2);
+}
+
+.blue.panel-default > .panel-heading {
+  background-color: rgba(0, 0, 255, 0.6);
+}
+
+.red.panel-default > .panel-heading{
+  background-color: rgba(240, 0, 0, 0.8);
+}
+
+.purple.panel-default > .panel-heading{
+  background-color: rgba(135, 0, 255, 0.6);
+}
+
+.purple {
+  background-color: rgba(135, 0, 255, 0.3);
+}
+
+.independent {
+  border-color: rgba(0, 255, 0, 0.3);
+  background-color: rgba(0, 255, 0, 0.2);
+}
+
+open-states .table-bordered > thead > tr > th,
+open-states.red .table-bordered > tbody > tr > th,
+open-states.blue .table-bordered > tbody > tr > th,
+open-states .table-bordered > tfoot > tr > th, 
+open-states .table-bordered > thead > tr > td, 
+open-states .table-bordered > tbody > tr > td, 
+open-states .table-bordered > tfoot > tr > td,
+closed-states .table-bordered > thead > tr > th,
+closed-states .table-bordered >tbody > tr > th, 
+closed-states .table-bordered > tfoot > tr > th, 
+closed-states .table-bordered > thead > tr > td, 
+closed-states .table-bordered > tbody > tr > td, 
+closed-states .table-bordered > tfoot > tr > td {
+  border: 1px solid rgba(0, 0, 0, 0.0);
+}
+
+
+h4 { 
+  font-size: 80px; 
+  letter-spacing: -1px; 
+  color: #DFBF84; 
+  text-transform: uppercase; 
+  text-shadow: 0 1px 0 #000;
+  margin: 10px 0 24px; 
+  text-align: center; 
+  line-height: 34px; 
+}
+
+.button-select {
+  display: flex;
+  justify-content: center;
+}
+
+.filter-btn {
+  -moz-box-shadow:inset 0px 1px 0px 0px #d4d8db;
+  -webkit-box-shadow:inset 0px 1px 0px 0px #d4d8db;
+  box-shadow:inset 0px 1px 0px 0px #d4d8db;
+  background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #38383b), color-stop(1, #120101));
+  background:-moz-linear-gradient(top, #38383b 5%, #120101 100%);
+  background:-webkit-linear-gradient(top, #38383b 5%, #120101 100%);
+  background:-o-linear-gradient(top, #38383b 5%, #120101 100%);
+  background:-ms-linear-gradient(top, #38383b 5%, #120101 100%);
+  background:linear-gradient(to bottom, #38383b 5%, #120101 100%);
+  filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#38383b', endColorstr='#120101',GradientType=0);
+  background-color:#38383b;
+  -moz-border-radius:3px;
+  -webkit-border-radius:3px;
+  border-radius:3px;
+  border:1px solid #050505;
+  display:inline-block;
+  cursor:pointer;
+  color:#ffffff;
+  font-family:Arial;
+  font-size:13px;
+  padding:6px 24px;
+  text-decoration:none;
+  text-shadow:0px 1px 0px #000000;
+  margin: 5px;
+}
+.filter-btn:hover {
+  background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #120101), color-stop(1, #38383b));
+  background:-moz-linear-gradient(top, #120101 5%, #38383b 100%);
+  background:-webkit-linear-gradient(top, #120101 5%, #38383b 100%);
+  background:-o-linear-gradient(top, #120101 5%, #38383b 100%);
+  background:-ms-linear-gradient(top, #120101 5%, #38383b 100%);
+  background:linear-gradient(to bottom, #120101 5%, #38383b 100%);
+  filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#120101', endColorstr='#38383b',GradientType=0);
+  background-color:#120101;
+}
+.filter-btn:active {
+  position:relative;
+  top:1px;
+}
+
+.animate-repeat.ng-move,
+.animate-repeat.ng-enter,
+.animate-repeat.ng-leave {
+    transition: all linear 0.5s;
+    opacity:0;
+}
+
+.animate-repeat.ng-leave,
+.animate-repeat.ng-move.ng-move-active,
+.animate-repeat.ng-enter.ng-enter-active {
+    transition: all linear 0.5s;
+    opacity:1;
+
+}
+.animate-repeat.ng-leave.ng-leave-active,
+.animate-repeat.ng-move,
+.animate-repeat.ng-enter {
+    opacity:0;
+    padding:0;
+}
+
+.slide-toggle {
+  transition: all ease-in 0.5s;
+}

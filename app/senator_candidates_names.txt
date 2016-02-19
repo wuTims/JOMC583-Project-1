@@ -1,0 +1,368 @@
+AL{
+Democratic
+Charles Nana[4]
+Ron Crumpton[4]
+
+Republican
+Richard Shelby - Incumbent
+John Martin[5]
+Shadrack McGill[5]
+Jonathan McConnell[5]
+Marcus Bowman[5]
+}
+
+AR {
+Democratic
+Conner Eldridge - Former U.S. attorney[4]
+
+Republican
+John Boozman - Incumbent
+Curtis Coleman[5]
+
+Third Party
+Frank Gilbert (Libertarian)[5]
+Jason Tate (Write-in)[5]
+}
+
+AK {
+Republican
+Lisa Murkowski - Incumbent
+}
+
+AZ {
+Democratic
+Ann Kirkpatrick - U.S. Rep.[4]
+
+Republican
+John McCain - Incumbent[5]
+Alex Meluskey - Business owner[6]
+Kelli Ward - State senator[7]
+
+Third Party
+J.L. Mealer (Americans Elect of Arizona)
+}
+
+
+CA {
+Democratic
+Kamala Harris - Attorney General
+Loretta Sanchez - U.S. Rep.[5]
+Akinyemi Agbede - Mathematician[6]
+Steve Stokes - Small business owner[7]
+
+Republican
+John Estrada - Business owner
+Rocky Chavez - Assemblyman
+Mark Hardie[8]
+Tom Del Beccaro - Former state party chair[9]
+Tom Palzer[10]
+Duf Sundheim - Former state party chair[11]
+Phil Wyman[12]
+
+Third Party
+Ronnie Brackett (Independent) - Recording artist[13]
+Mark Matthew Herd[14]
+Hilaire Fuji Shioura (Independent)[15]
+}
+
+OR {	
+Democratic
+Ron Wyden - Incumbent
+Kevin Stine[4]
+}
+
+WA {
+Democratic
+Patty Murray - Incumbent
+
+Republican
+Chris Vance[4]
+}
+
+NV { 
+Democratic
+Catherine Cortez Masto - Former Attorney General[7]
+
+Republican
+Joe Heck - U.S. Rep.[8]
+}
+
+ID {
+Republican
+Mike Crapo - Incumbent
+}
+
+UT {
+Republican
+Mike Lee - Incumbent
+}
+
+CO {
+Democratic
+Michael Bennet - Incumbent
+
+Republican
+Darryl Glenn - El Paso County Supervisor[2]
+Greg Lopez - Former director of the Colorado Small Business Administration[3]
+Tim Neville - State Sen.[4]
+Ryan Frazier - Former Aurora councilman[5]
+Donald Rosier - Jefferson County Commissioner[6]
+Jon Keyser - State rep.[7]
+Robert Blaha - Businessman[8][9]
+Peg Littleton - El Paso County Commissioner[10]
+Jack Graham - Businessman[11]
+
+Third Party
+Lily Tang Williams (Libertarian)[12]
+Arn Menconi (Green Party)[13]
+}
+
+HI {
+Democratic
+Brian Schatz - Incumbent
+}
+
+ND {
+Republican
+John Hoeven - Incumbent
+}
+
+SD {
+Republican
+John Thune - Incumbent
+}
+
+KS {
+Republican
+Jerry Moran - Incumbent
+}
+
+OK {
+Republican
+James Lankford - Incumbent
+}
+
+IA {
+Democratic
+Rob Hogg - State Sen.[5]
+Bob Krause - Former state rep.[6]
+Tom Fiegen - Former state sen.[7]
+
+Republican
+Chuck Grassley - Incumbent[8]
+}
+
+MO {
+Democratic
+Jason Kander - Missouri Secretary of State[4]
+MD Rabbi Alam[5]
+
+Republican
+Roy Blunt - Incumbent
+Christopher Batsche[6]
+}
+
+LA {
+Democratic
+Caroline Fayard - Lawyer[7]
+
+Republican
+John Fleming - U.S. Rep.[8]
+Charles Boustany Jr. - U.S. Rep.[8]
+Rob Maness - Retired colonel[9]
+Joseph Cao - Former congressman[10]
+John Kennedy - State treasurer[11]
+
+Third Party
+Troy Hebert (Independent) - Former state sen.[12]
+}
+
+WI {
+Democratic
+Russ Feingold - Former U.S. Senator[6]
+
+Republican
+Ron Johnson - Incumbent
+
+Third Party
+Phil Anderson (Libertarian)[7]
+}
+
+IL {
+Democratic
+Tammy Duckworth - U.S. Rep.[5]
+Andrea Zopp - Chicago Urban League President and CEO[6]
+Napoleon Harris - State Sen.[7]
+
+Republican
+Mark Kirk - Incumbent[8]
+James Marter[8]
+
+Third Party
+Chris Aguayo (Veterans Party of America)[9]
+}
+
+IN {
+Democratic
+Baron Hill - Former U.S. Rep.[4]
+
+Republican
+Marlin Stutzman - U.S. Rep.[5]
+Todd Young - U.S. Rep.[6]
+}
+
+KY {
+Democratic
+Jim Gray - Mayor of Lexington[11]
+Rory Houlihan[12]
+Jeff Kender[13]
+Ron Leach[12]
+Tom Recktenwald[12]
+Grant Short[12]
+Sellus Wilder[12]
+
+Republican
+Rand Paul - Incumbent[12]
+James Gould[12]
+Stephen Howard Slaughter[12]
+}
+
+OH {
+Democratic
+Kelli Prather[3]
+P.G. Sittenfeld - City Council member in Cincinnati, Ohio[3][4][5]
+Ted Strickland - Former Governor of Ohio[3][6]
+
+Republican
+Don Elijah Eckhart[3]
+Rob Portman - Incumbent[3][7]
+
+Third Party
+Thomas William Connors[8]
+Joseph Demare (Green)[3]
+Scott Rupert[9]
+}
+
+FL {
+Democratic
+Patrick Murphy - U.S. Rep.[14]
+Alan Grayson - U.S. Rep.[15][16]
+Pam Keith [17]
+
+Republican
+Ron DeSantis - U.S. Rep.[18]
+Carlos Lopez-Cantera - Lt. Gov.[19]
+Todd Wilcox - Defense contractor[20]
+David Jolly - U.S. Rep.[21]
+Ernie Rivera[22]
+Howard Knepper[23]
+
+Third Party
+Charles Frederick Tolbert (NPA)[24]
+}
+
+GA {
+Republican
+Johnny Isakson - Incumbent
+
+Third Party
+Allen Buckley (Libertarian)[4]
+}
+
+SC {
+Republican
+Tim Scott - Incumbent
+}
+
+NC {
+Democratic
+Kevin Griffin[2][3]
+Ernest Reeves[2]
+Chris Rey - Spring Lake Mayor[2][4]
+Deborah Ross - Former State House Majority Whip[2][5]
+
+Republican
+Richard Burr - Incumbent[2][6]
+Greg Brannon - 2014 challenger[2][7]
+Larry Holmquist[2]
+Paul Wright[2]
+
+Third Party
+Sean Haugh (Libertarian Party)[8]
+}
+
+MD {
+Democratic
+Fred Donald Dickson, Jr.[2]
+Donna Edwards - U.S. Rep.[2][3]
+Ralph Jaffe[2][4]
+Theresa Scaldaferri[2]
+Charles Smith[2]
+Violet Scheryll Staley[2]
+Blaine Taylor[2]
+Ed Tinus[2]
+Chris Van Hollen - U.S. Rep.[2][3]
+Lih Young[2]
+
+Republican
+Chris Chaffee[2]
+Sean Connor[2]
+Richard Douglas - Former Pentagon official and Capitol Hill lawyer[2][5]
+John Graziani[2]
+Greg Holmes[2]
+Joseph Hooe[2][3]
+Chrys Kefalas - Former aide to Gov. Robert L. Ehrlich, Jr. (R)[2][6]
+Mark McNicholas[2]
+Lynn Richardson[2]
+Anthony Seda[2][3]
+Richard Shawver[2]
+Kathy Szeliga - Delegate of Baltimore County, Minority Whip in the House of Delegates[2][7][8]
+Dave Wallace[2][3]
+Garry Yarrington[2]
+
+Third Party
+Elizabeth Croydon (Green)[2]
+Greg Dorsey[2][3]
+Margaret Flowers (Green)[2][9]
+Steve Gladstone[2]
+Edward Shlikas[2][3]
+Arvin Vohra (Libertarian)[2]
+Kay Young[2]
+}
+
+PA {
+Democratic
+Joe Sestak[8]
+Ed Pawlowski - Allentown Mayor[9]
+Katie McGinty - Former chief of staff to gov. [10]
+John Fetterman - Braddock Mayor[11]
+
+Republican
+Pat Toomey - Incumbent
+}
+
+NY {
+Democratic
+Chuck Schumer - Incumbent
+}
+
+CT {
+Democratic
+Richard Blumenthal - Incumbent
+
+Republican
+August Wolf - Businessman[2]
+}
+
+VT {
+Democratic
+Patrick Leahy - Incumbent
+}
+
+NH {
+Democratic
+Maggie Hassan - Governor of New Hampshire[5]
+
+Republican
+Kelly Ayotte - Incumbent[6]
+}

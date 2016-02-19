@@ -1,0 +1,10 @@
+<table class="table table-bordered">
+	<tr>
+      <th style="text-align:center" ng-repeat="senator in senateCtrl.senators | filter:senateCtrl.filterByState(state.state, senator)"> Senator {{senator.person.firstname}} {{senator.person.lastname}}</th>
+    </tr>
+    <tr style="">
+      <td ng-repeat="senator in senateCtrl.senators | filter:senateCtrl.filterByState(state.state, senator)">
+        <img class="img-responsive senator-images img-thumbnail {{senator.party | lowercase}}" style="height:150px; width:150px;" ng-src="{{senator.person.image_url}}" alt="">
+      </td>
+    </tr>
+</table>
