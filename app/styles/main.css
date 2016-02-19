@@ -107,7 +107,7 @@ body {
 }
 
 .red.panel-default > .panel-heading{
-  background-color: rgba(240, 0, 0, 0.8);
+  background-color: rgba(255, 0, 0, 0.6);
 }
 
 .purple.panel-default > .panel-heading{
@@ -220,4 +220,25 @@ h4 {
 
 .slide-toggle {
   transition: all ease-in 0.5s;
+}
+
+.candidate-about-body,
+.candidate-platform-body{
+  padding: 7px;
+  margin-left: 8%;
+  margin-right: 8%;
+}
+
+.candidate-opp-body{
+  margin-left: 8%;
+  margin-bottom: 5px;
+}
+
+.candidate-platform-body{
+  list-style-type: decimal;
+}
+
+.candidate-about-head,
+.candidate-platform-head{
+  margin-left: 2%;
 }

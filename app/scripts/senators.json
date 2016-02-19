@@ -5238,7 +5238,11 @@
       "firstname": "Charles",
       "lastname": "Nana",
       "party": "Democrat",
-      "bio": null,
+      "bio": "Charles was born in Cameroon, West Africa to parents Nanda, a home maker and Tchienkou, a printing press technician. He is the 1st of 14 children and also the very first to obtain a college degree in his family. He migrated to the United States with only $428 in his pocket, but today, those $428 have translated into hundreds of thousands of dollars in real estate and heavy machinery investments as well as a decent education: Bachelor’s degree in Mechanical Engineering from Howard University, Masters degree in Biomedical Engineering from Catholic University of America and an International MBA degree in Analytical Finance and Strategic Management from the University of Chicago, Booth School of Business. Charles is married to Florence and they have three sons, Nanda, Wanci and Kedy.",
+      "points": ["Aggressively fight foreign unfair trade practices from China, Korea, Canada and other countries that continue to cause irreparable harm to American businesses", 
+                  "Fight aggressively to increase minimum wage in the state from $7.25 an hour to $15 an hour within the next five years",
+                  "All Alabamians should have a chance to earn the skills and education needed to earn a livable wage and excel in a competitively global economy",
+                  "We need to provide resources, funding as well as high-quality and timely health care. No veteran in the state should be unemployed or homeless"],
       "image_url": [
         "http://www.nanaforsenate.com/images/photo4.jpg"
       ]
@@ -5247,36 +5251,42 @@
       "lastname": "Crumpton",
       "party": "Democrat",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "Richard",
       "lastname": "Shelby",
       "party": "Republican",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "John",
       "lastname": "Martin",
       "party": "Republican",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "Shadrack",
       "lastname": "McGill",
       "party": "Republican",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "Jonathan",
       "lastname": "McConnell",
       "party": "Republican",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "Marcus",
       "lastname": "Bowman",
       "party": "Republican",
       "bio": null,
+      "points": [],
       "image_url": []
     }],
     "color": "red",
@@ -5288,7 +5298,10 @@
       "firstname": "Lisa",
       "lastname": "Murkowski",
       "party": "Republican",
-      "bio": null,
+      "bio": "She earned a B.A. in economics from Georgetown University in 1980 and a law degree from Willamette University in 1985.  Prior to her appointment to the United States Senate, Senator Murkowski practiced commercial law in Anchorage and served three terms in the Alaska State House of Representatives.  She was elected to a full six-year U.S. Senate term in 2004, and was re-elected in 2010 in a historic write-in campaign, the first successful write-in effort to the Senate since 1954. Senator Murkowski is married to Verne Martell and they have two sons. She enjoys spending time with her family in the Alaska outdoors.",
+      "points": ["Murkowski has helped protect and ensure that health care is delivered by the 100 percent Native American-owned and controlled Alaska Native Tribal Health Consortium and a network of tribally operated hospitals and clinics in rural Alaska hubs and villages", 
+                  "Murkowski opposed President Barack Obama's health reform legislation; she voted against the Patient Protection and Affordable Care Act in December 2009, and she voted against the Health Care and Education Reconciliation Act of 2010",
+                  "Murkowski is currently the chairman of the Senate Energy and Natural Resources Committee. She has given her support to efforts to drill for oil in the Arctic National Wildlife Refuge (ANWR)"],
       "image_url": []
     }],
     "color": "red",
@@ -5300,7 +5313,10 @@
       "firstname": "Ann",
       "lastname": "Kirkpatrick",
       "party": "Democrat",
-      "bio": null,
+      "bio": "Ann graduated from Blue Ridge High School and worked her way through the University of Arizona, earning a bachelor’s degree and then a law degree there. In Tucson, Ann saw the importance of Arizona’s education system, which cultivates the innovators and leaders who move Arizona forward. Ann’s upbringing instilled in her the Arizona values that she carries with her to this day: no-nonsense, independent, innovative – and always focused on the people of Arizona. Ann and her husband, Roger, have four grown children, and they recently welcomed their family’s first grandchild into the world – John Richard, a 5th-generation Arizonan.",
+      "points": ["Ann is committed to making Arizona home to a revived middle class by creating good-paying local jobs",
+                  "Ann will never go back on the promise of Social Security and Medicare. She will fight to protect these programs against privatization or efforts to end the Medicare guarantee",
+                  "She is co-sponsoring legislation to strengthen background checks, prevent guns from getting into the hands of those convicted of domestic violence, and end the ban on gun violence research"],
       "image_url": [
         "https://pbs.twimg.com/profile_images/3292420370/f5520be836be9083d0d91386cea0a2d1_400x400.jpeg"
       ]
@@ -5309,24 +5325,28 @@
       "lastname": "McCain",
       "party": "Republican",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "Alexander",
       "lastname": "Meluskey",
       "party": "Republican",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "Kelli",
       "lastname": "Ward",
       "party": "Republican",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "John",
       "lastname": "Mealer",
       "party": "Third",
       "bio": null,
+      "points": [],
       "image_url": []
     }],
     "color": "red",
@@ -5338,7 +5358,10 @@
       "firstname": "Conner",
       "lastname": "Eldridge",
       "party": "Democrat",
-      "bio": null,
+      "bio": "Conner has lived throughout the state. Born in Fayetteville, he spent the first 12 years of his life in Augusta until his family moved to Lonoke, where he worked on the family farm and graduated from high school. He earned a bachelor’s degree from Davidson College and a law degree from the University of Arkansas in Fayetteville, where he was a member of the Arkansas Law Review. Conner married Mary Elizabeth Whipple and the couple moved to Arkadelphia in 2004, where he became vice president and assistant general counsel of Summit Bank. He served as CEO of Summit Bank and Summit Bancorp from 2008 to 2010.",
+      "points": ["Create more and new jobs in the state",
+                  "Improve education and take care of student debt",
+                  "Make the communities safer"],
       "image_url": [
         "https://pbs.twimg.com/profile_images/658144784540786688/6znhhgHu.jpg"
       ]
@@ -5347,24 +5370,28 @@
       "lastname": "Boozman",
       "party": "Republican",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "Curtis",
       "lastname": "Coleman",
       "party": "Republican",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "Frank",
       "lastname": "Gilbert",
       "party": "Third",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "Jason",
       "lastname": "Tate",
       "party": "Third",
       "bio": null,
+      "points": [],
       "image_url": []
     }],
     "color": "red",
@@ -5376,7 +5403,10 @@
       "firstname": "Kamala",
       "lastname": "Harris",
       "party": "Democrat",
-      "bio": null,
+      "bio": "My parents were both graduate students at the University of California at Berkeley. I grew up with a stroller’s-eye view of the civil rights movement, and often I joke that as a child I was surrounded by adults marching and shouting for this thing called justice. My younger sister, Maya, and I grew up around adults who were committed to service and community involvement. The idols of my youth – the architects of the civil rights era – such as Thurgood Marshall, Charles Hamilton Houston, and Constance Baker Motley, inspired me from a young age to want to be a lawyer and fight for the voiceless and for justice. As chief law enforcement officer for the State of California, my office has focused on combating transnational gangs, working with Mexico to prevent gangs from bringing guns and drugs across our border. We have also worked to fight human trafficking, safeguard California’s many environmental protection laws from efforts to weaken them, and improve public safety by reducing recidivism. ",
+      "points": ["Reducing violent crimes in communities", 
+                  "Protecting the environment and building a clean economy",
+                  "Standing up for immigrant communities"],
       "image_url": [
         "https://pbs.twimg.com/profile_images/378800000079087220/b61da72e5e92d0e2068038be092053dc_400x400.jpeg"
       ]
@@ -5385,78 +5415,91 @@
       "lastname": "Sanches",
       "party": "Democrat",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "Akinyemi",
       "lastname": "Agbede",
       "party": "Democrat",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "Steve",
       "lastname": "Stokes",
       "party": "Democrat",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "John",
       "lastname": "Estrada",
       "party": "Republican",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "Rocky",
       "lastname": "Chavez",
       "party": "Republican",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "Mark",
       "lastname": "Hardie",
       "party": "Republican",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "Tom",
       "lastname": "Del Beccaro",
       "party": "Republican",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "Tom",
       "lastname": "Palzer",
       "party": "Republican",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "Duf",
       "lastname": "Sundheim",
       "party": "Republican",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "Phil",
       "lastname": "Wyman",
       "party": "Republican",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "Ronnie",
       "lastname": "Brackett",
       "party": "Third",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "Mark",
       "lastname": "Herd",
       "party": "Third",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "Hilaire",
       "lastname": "Fuji Shioura",
       "party": "Third",
       "bio": null,
+      "points": [],
       "image_url": []
     }],
     "color": "blue",
@@ -5469,24 +5512,28 @@
       "lastname": "Bennet",
       "party": "Democrat",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "Darryl",
       "lastname": "Glenn",
       "party": "Republican",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "Greg",
       "lastname": "Lopez",
       "party": "Republican",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "Tim",
       "lastname": "Neville",
       "party": "Republican",
       "bio": null,
+      "points": [],
       "image_url": [
         "http://www.nevilleforsenate.com/wp-content/uploads/2015/10/bio-headshot.jpg"
       ]
@@ -5495,48 +5542,56 @@
       "lastname": "Frazier",
       "party": "Republican",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "Donald",
       "lastname": "Rosier",
       "party": "Republican",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "Jon",
       "lastname": "Keyser",
       "party": "Republican",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "Robert",
       "lastname": "Blaha",
       "party": "Republican",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "Peg",
       "lastname": "Littleton",
       "party": "Republican",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "Jack",
       "lastname": "Graham",
       "party": "Republican",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "Lily",
       "lastname": "Williams",
       "party": "Third",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "Arn",
       "lastname": "Menconi",
       "party": "Third",
       "bio": null,
+      "points": [],
       "image_url": []
     }],
     "color": "blue",
@@ -5549,12 +5604,14 @@
       "lastname": "Blumenthal",
       "party": "Democrat",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "August",
       "lastname": "Wolf",
       "party": "Republican",
       "bio": null,
+      "points": [],
       "image_url": [
         "http://2bpp6b1bdfsu2u16od2px8nk.wpengine.netdna-cdn.com/wp-content/uploads/2015/03/HolbornSrMgrColorWolf-249x300.jpg"
       ]
@@ -5575,6 +5632,7 @@
       "lastname": "Murphy",
       "party": "Democrat",
       "bio": null,
+      "points": [],
       "image_url": [
         "https://pbs.twimg.com/profile_images/574354842677706752/NAzlBdmr.jpeg"
       ]
@@ -5583,54 +5641,63 @@
       "lastname": "Grayson",
       "party": "Democrat",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "Pam",
       "lastname": "Keith",
       "party": "Democrat",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "Ron",
       "lastname": "DeSantis",
       "party": "Republican",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "Carlos",
       "lastname": "Lopez-Cantera",
       "party": "Republican",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "Todd",
       "lastname": "Wilcox",
       "party": "Republican",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "David",
       "lastname": "Jolly",
       "party": "Republican",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "Ernie",
       "lastname": "Rivera",
       "party": "Republican",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "Howard",
       "lastname": "Knepper",
       "party": "Republican",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "Charles",
       "lastname": "Tolbert",
       "party": "Third",
       "bio": null,
+      "points": [],
       "image_url": []
     }],
     "color": "red",
@@ -5643,12 +5710,14 @@
       "lastname": "Isakson",
       "party": "Republican",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "Allen",
       "lastname": "Buckley",
       "party": "Third",
       "bio": null,
+      "points": [],
       "image_url": [
         "http://static2.teapartycheer.com/wp-content/uploads/2015/12/GAs3.21-Allen-Buckley.jpg?d4962a"
       ]
@@ -5663,6 +5732,7 @@
       "lastname": "Schatz",
       "party": "Democrat",
       "bio": null,
+      "points": [],
       "image_url": []
     }],
     "color": "blue",
@@ -5675,6 +5745,7 @@
       "lastname": "Crapo",
       "party": "Republican",
       "bio": null,
+      "points": [],
       "image_url": []
     }],
     "color": "red",
@@ -5687,6 +5758,7 @@
       "lastname": "Duckworth",
       "party": "Democrat",
       "bio": null,
+      "points": [],
       "image_url": [
         "https://pbs.twimg.com/profile_images/673882053297971201/qKILnJZ8.jpg"
       ]
@@ -5695,30 +5767,35 @@
       "lastname": "Zopp",
       "party": "Democrat",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "Napolean",
       "lastname": "Harris",
       "party": "Democrat",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "Mark",
       "lastname": "Kirk",
       "party": "Republican",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "James",
       "lastname": "Marter",
       "party": "Republican",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "Chris",
       "lastname": "Aguayo",
       "party": "Third",
       "bio": null,
+      "points": [],
       "image_url": []
     }],
     "color": "red",
@@ -5731,6 +5808,7 @@
       "lastname": "Hill",
       "party": "Democrat",
       "bio": null,
+      "points": [],
       "image_url": [
         "https://pbs.twimg.com/profile_images/672808658623979520/2CRMy6aH.jpg"
       ]
@@ -5739,12 +5817,14 @@
       "lastname": "Stutzman",
       "party": "Republican",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "Todd",
       "lastname": "Young",
       "party": "Republican",
       "bio": null,
+      "points": [],
       "image_url": []
     }],
     "color": "red",
@@ -5757,18 +5837,21 @@
       "lastname": "Hogg",
       "party": "Democrat",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "Bob",
       "lastname": "Krause",
       "party": "Democrat",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "Tom",
       "lastname": "Fiegen",
       "party": "Democrat",
       "bio": null,
+      "points": [],
       "image_url": [
         "https://pbs.twimg.com/profile_images/646454418154479616/ZSKXwzSw.jpg"
       ]
@@ -5777,6 +5860,7 @@
       "lastname": "Grassley",
       "party": "Republican",
       "bio": null,
+      "points": [],
       "image_url": []
     }],
     "color": "red",
@@ -5789,6 +5873,7 @@
       "lastname": "Moran",
       "party": "Republican",
       "bio": null,
+      "points": [],
       "image_url": []
     }],
     "color": "red",
@@ -5801,24 +5886,28 @@
       "lastname": "Gray",
       "party": "Democrat",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "Rory",
       "lastname": "Houlihan",
       "party": "Democrat",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "Jeff",
       "lastname": "Kender",
       "party": "Democrat",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "Ron",
       "lastname": "Leach",
       "party": "Democrat",
       "bio": null,
+      "points": [],
       "image_url": [
         "http://mediad.publicbroadcasting.net/p/wfpl/files/styles/card_280/public/201307/-2.jpg"
       ]
@@ -5827,36 +5916,42 @@
       "lastname": "Recktenwald",
       "party": "Democrat",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "Grant",
       "lastname": "Short",
       "party": "Democrat",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "Sellus",
       "lastname": "Wilder",
       "party": "Democrat",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "Rand",
       "lastname": "Paul",
       "party": "Republican",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "James",
       "lastname": "Gould",
       "party": "Republican",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "Stephen",
       "lastname": "Slaughter",
       "party": "Republican",
       "bio": null,
+      "points": [],
       "image_url": []
     }],
     "color": "red",
@@ -5869,18 +5964,21 @@
       "lastname": "Fayard",
       "party": "Democrat",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "John",
       "lastname": "Fleming",
       "party": "Republican",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "Charles",
       "lastname": "Boustany Jr.",
       "party": "Republican",
       "bio": null,
+      "points": [],
       "image_url": [
         "https://pbs.twimg.com/profile_images/557687881427197952/6_Rqu8VH.jpeg"
       ]
@@ -5889,24 +5987,28 @@
       "lastname": "Maness",
       "party": "Republican",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "Joseph",
       "lastname": "Cao",
       "party": "Republican",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "John",
       "lastname": "Kennedy",
       "party": "Republican",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "Troy",
       "lastname": "Hebert",
       "party": "Third",
       "bio": null,
+      "points": [],
       "image_url": []
     }],
     "color": "red",
@@ -5925,36 +6027,42 @@
       "lastname": "Dickson Jr.",
       "party": "Democrat",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "Donna",
       "lastname": "Edwards",
       "party": "Democrat",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "Ralph",
       "lastname": "Jaffe",
       "party": "Democrat",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "Theresa",
       "lastname": "Scaldaferri",
       "party": "Democrat",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "Charles",
       "lastname": "Smith",
       "party": "Democrat",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "Violet",
       "lastname": "Staley",
       "party": "Democrat",
       "bio": null,
+      "points": [],
       "image_url": [
         "https://pbs.twimg.com/profile_images/648568650245365760/ft-Q2pg9.jpg"
       ]
@@ -5963,150 +6071,175 @@
       "lastname": "Taylor",
       "party": "Democrat",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "Ed",
       "lastname": "Tinus",
       "party": "Democrat",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "Chris",
       "lastname": "Van Hollen",
       "party": "Democrat",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "Lih",
       "lastname": "Young",
       "party": "Democrat",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "Chris",
       "lastname": "Chaffee",
       "party": "Republican",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "Sean",
       "lastname": "Connor",
       "party": "Republican",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "Richard",
       "lastname": "Douglas",
       "party": "Republican",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "John",
       "lastname": "Graziani",
       "party": "Republican",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "Greg",
       "lastname": "Holmes",
       "party": "Republican",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "Joseph",
       "lastname": "Hooe",
       "party": "Republican",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "Chrys",
       "lastname": "Kefalas",
       "party": "Republican",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "Mark",
       "lastname": "McNicholas",
       "party": "Republican",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "Lynn",
       "lastname": "Richardson",
       "party": "Republican",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "Anthony",
       "lastname": "Seda",
       "party": "Republican",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "Richard",
       "lastname": "Shawver",
       "party": "Republican",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "Kathy",
       "lastname": "Szeliga",
       "party": "Republican",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "Dave",
       "lastname": "Wallace",
       "party": "Republican",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "Garry",
       "lastname": "Yarrington",
       "party": "Republican",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "Elizabeth",
       "lastname": "Croydon",
       "party": "Third",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "Greg",
       "lastname": "Dorsey",
       "party": "Third",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "Margaret",
       "lastname": "Flowers",
       "party": "Third",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "Steve",
       "lastname": "Gladstone",
       "party": "Third",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "Edward",
       "lastname": "Shlikas",
       "party": "Third",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "Arvin",
       "lastname": "Vohra",
       "party": "Third",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "Kay",
       "lastname": "Young",
       "party": "Third",
       "bio": null,
+      "points": [],
       "image_url": []
     }],
     "color": "blue",
@@ -6143,6 +6276,7 @@
       "lastname": "Kander",
       "party": "Democrat",
       "bio": null,
+      "points": [],
       "image_url": [
         "https://pbs.twimg.com/profile_images/663834883089932288/oM7t8JZl.jpg"
       ]
@@ -6151,18 +6285,21 @@
       "lastname": "Alam",
       "party": "Democrat",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "Roy",
       "lastname": "Blunt",
       "party": "Republican",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "Christopher",
       "lastname": "Batsche",
       "party": "Republican",
       "bio": null,
+      "points": [],
       "image_url": []
     }],
     "color": "red",
@@ -6187,6 +6324,7 @@
       "lastname": "Cortez Masto",
       "party": "Democrat",
       "bio": null,
+      "points": [],
       "image_url": [
         "https://pbs.twimg.com/profile_images/581564723503591424/81f-64CF.jpg"
       ]
@@ -6195,6 +6333,7 @@
       "lastname": "Heck",
       "party": "Republican",
       "bio": null,
+      "points": [],
       "image_url": []
     }],
     "color": "blue",
@@ -6207,6 +6346,7 @@
       "lastname": "Hassan",
       "party": "Democrat",
       "bio": null,
+      "points": [],
       "image_url": [
         "https://pbs.twimg.com/profile_images/593528037762732035/vlQMl42F.jpg"
       ]
@@ -6215,6 +6355,7 @@
       "lastname": "Ayotte",
       "party": "Republican",
       "bio": null,
+      "points": [],
       "image_url": []
     }],
     "color": "red",
@@ -6239,6 +6380,7 @@
       "lastname": "Schumer",
       "party": "Democrat",
       "bio": null,
+      "points": [],
       "image_url": []
     }],
     "color": "blue",
@@ -6251,18 +6393,21 @@
       "lastname": "Griffin",
       "party": "Democrat",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "Ernest",
       "lastname": "Reeves",
       "party": "Democrat",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "Chris",
       "lastname": "Rey",
       "party": "Democrat",
       "bio": null,
+      "points": [],
       "image_url": [
         "https://pbs.twimg.com/profile_images/378800000447052583/6485f2f3f542b0e3d5547958ae2c9980_400x400.jpeg"
       ]
@@ -6271,36 +6416,42 @@
       "lastname": "Ross",
       "party": "Democrat",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "Richard",
       "lastname": "Burr",
       "party": "Republican",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "Greg",
       "lastname": "Brannon",
       "party": "Republican",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "Larry",
       "lastname": "Holmquist",
       "party": "Republican",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "Paul",
       "lastname": "Wright",
       "party": "Republican",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "Sean",
       "lastname": "Haugh",
       "party": "Third",
       "bio": null,
+      "points": [],
       "image_url": []
     }],
     "color": "red",
@@ -6313,6 +6464,7 @@
       "lastname": "Hoeven",
       "party": "Republican",
       "bio": null,
+      "points": [],
       "image_url": []
     }],
     "color": "red",
@@ -6325,18 +6477,21 @@
       "lastname": "Prather",
       "party": "Democrat",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "Paul",
       "lastname": "Sittenfeld",
       "party": "Democrat",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "Ted",
       "lastname": "Strickland",
       "party": "Democrat",
       "bio": null,
+      "points": [],
       "image_url": [
         "https://pbs.twimg.com/profile_images/666343176878350336/2cV09IEA.jpg"
       ]
@@ -6345,30 +6500,35 @@
       "lastname": "Eckhart",
       "party": "Republican",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "Rob",
       "lastname": "Portman",
       "party": "Republican",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "Thomas",
       "lastname": "William",
       "party": "Third",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "Joseph",
       "lastname": "Demare",
       "party": "Third",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "Scott",
       "lastname": "Rupert",
       "party": "Third",
       "bio": null,
+      "points": [],
       "image_url": []
     }],
     "color": "red",
@@ -6381,6 +6541,7 @@
       "lastname": "Lankford",
       "party": "Republican",
       "bio": null,
+      "points": [],
       "image_url": []
     }],
     "color": "red",
@@ -6393,12 +6554,14 @@
       "lastname": "Wyden",
       "party": "Democrat",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "Kevin",
       "lastname": "Stine",
       "party": "Democrat",
       "bio": null,
+      "points": [],
       "image_url": [
         "https://pbs.twimg.com/profile_images/699656718595174400/cTtKEXvh.jpg"
       ]
@@ -6413,18 +6576,21 @@
       "lastname": "Sestak",
       "party": "Democrat",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "Ed",
       "lastname": "Pawlowski",
       "party": "Democrat",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "Katie",
       "lastname": "McGinty",
       "party": "Democrat",
       "bio": null,
+      "points": [],
       "image_url": [
         "https://pbs.twimg.com/profile_images/693145560245645312/aHHgvmvl.jpg"
       ]
@@ -6433,12 +6599,14 @@
       "lastname": "Fetterman",
       "party": "Democrat",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "Pat",
       "lastname": "Toomey",
       "party": "Republican",
       "bio": null,
+      "points": [],
       "image_url": []
     }],
     "color": "red",
@@ -6457,6 +6625,7 @@
       "lastname": "Scott",
       "party": "Republican",
       "bio": null,
+      "points": [],
       "image_url": []
     }],
     "color": "red",
@@ -6469,6 +6638,7 @@
       "lastname": "Thune",
       "party": "Republican",
       "bio": null,
+      "points": [],
       "image_url": []
     }],
     "color": "red",
@@ -6493,6 +6663,7 @@
       "lastname": "Lee",
       "party": "Republican",
       "bio": null,
+      "points": [],
       "image_url": []
     }],
     "color": "red",
@@ -6505,6 +6676,7 @@
       "lastname": "Leahy",
       "party": "Democrat",
       "bio": null,
+      "points": [],
       "image_url": []
     }],
     "color": "blue",
@@ -6523,6 +6695,7 @@
       "lastname": "Murray",
       "party": "Democrat",
       "bio": null,
+      "points": [],
       "image_url": []
     }],
     "color": "blue",
@@ -6541,6 +6714,7 @@
       "lastname": "Feingold",
       "party": "Democrat",
       "bio": null,
+      "points": [],
       "image_url": [
         "https://pbs.twimg.com/profile_images/649269574014144512/-HqpPb6U.png"
       ]
@@ -6549,12 +6723,14 @@
       "lastname": "Johnson",
       "party": "Republican",
       "bio": null,
+      "points": [],
       "image_url": []
     }, {
       "firstname": "Phil",
       "lastname": "Anderson",
       "party": "Third",
       "bio": null,
+      "points": [],
       "image_url": []
     }],
     "color": "red",
